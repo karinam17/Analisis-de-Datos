@@ -1,1 +1,3 @@
 https://lookerstudio.google.com/reporting/6a3caa74-c794-487e-87b5-04366be05d34
+
+Este analisis lo realice como trabajo Práctico de un curso de Análisis de Datos dictado por el Gobierno de la Ciudad de Buenos Aires llamado Codo a Codo
